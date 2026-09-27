@@ -1,17 +1,27 @@
-# aplikasi_tes
+# Tugas Sintaks Dasar Bahasa Dart
 
-A new Flutter project.
+Repositori ini berisi implementasi contoh kode sintaks dasar bahasa pemrograman Dart untuk memenuhi tugas mata kuliah. Program dibuat dengan tema **Sistem Pengelolaan Toko Buku & Alat Tulis**.
 
-## Getting Started
+## Konsep Dart yang Diimplementasikan
+* **Variabel & Tipe Data Dasar**: `String`, `int`, `double`, dan `bool`
+* **String Interpolation**: Menggabungkan variabel ke dalam teks menggunakan tanda `$`
+* **Null Safety**: Penanganan variabel kosong dengan operator `?` dan default value operator `??`
+* **Late Variable**: Inisialisasi variabel belakangan menggunakan `late`
+* **Immutability**: Deklarasi variabel konstan menggunakan `final` dan `const`
+* **Koleksi Data (Collections)**:
+  * `List` untuk menyimpan daftar terurut
+  * `Set` untuk menyimpan himpunan data unik
+  * `Map` untuk menyimpan data berpasangan (*key-value*)
 
-This project is a starting point for a Flutter application.
+## Cara Menjalankan Kode
+Buka terminal pada direktori proyek, lalu jalankan perintah:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+dart run lib/main.dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Langkah Menyimpannya di GitHub:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Hapus semua teks lama** yang ada di kotak editor halaman GitHub kamu saat ini[cite: 10].
+2. **Copy & Paste** teks Markdown dari kotak di atas ke dalam editor tersebut.
+3. Klik tombol hijau **`Commit changes...`** yang ada di pojok kanan atas[cite: 10].
+4. Pada jendela pop-up yang muncul, klik tombol **`Commit changes`**.
