@@ -21,7 +21,7 @@ dart run lib/main.dart
 
 ### Langkah Menyimpannya di GitHub:
 
-1. **Hapus semua teks lama** yang ada di kotak editor halaman GitHub kamu saat ini[cite: 10].
+1. **Hapus semua teks lama** yang ada di kotak editor halaman GitHub kamu saat ini
 2. **Copy & Paste** teks Markdown dari kotak di atas ke dalam editor tersebut.
-3. Klik tombol hijau **`Commit changes...`** yang ada di pojok kanan atas[cite: 10].
+3. Klik tombol hijau **`Commit changes...`** yang ada di pojok kanan atas.
 4. Pada jendela pop-up yang muncul, klik tombol **`Commit changes`**.
